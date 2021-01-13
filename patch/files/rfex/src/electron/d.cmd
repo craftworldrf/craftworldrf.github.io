@@ -1,1 +1,0 @@
-"../../bin/electron-v11.1.1-win32-ia32/electron.exe" "main.js"
